@@ -328,14 +328,14 @@ const templates = [
   { naam: "S505A", artikelen: ["L", "M_lk", "M_nws", "S_nws", "XS"], preview: "S505A.jpg" },
   { naam: "S505A variant 1", artikelen: ["L", "M_lk", "M_lk", "S_nws", "XS"], preview: "S505A.jpg" },
   { naam: "S505A variant 2", artikelen: ["L", "M_nws", "M_nws", "S_nws", "XS"], preview: "S505A.jpg" }, 
-  { naam: "S506A", artikelen: ["L", "M_nws", "S_nws", "S_nws", "S_nws"], preview: "S506A.jpg" },
-  { naam: "S506A variant 1", artikelen: ["L", "M_nws", "S_lk", "S_nws", "S_nws"], preview: "S506A.jpg" },
+  { naam: "S506A", artikelen: ["L", "M_nws", "S_lk", "S_nws", "S_nws"], preview: "S506A.jpg" },
+  { naam: "S506A variant 1", artikelen: ["L", "M_nws", "S_nws", "S_nws", "S_nws"], preview: "S506A.jpg" },
   { naam: "S506A variant 2", artikelen: ["L", "M_nws", "S_nws", "S_lk", "S_nws"], preview: "S506A.jpg" },
   { naam: "S506A variant 3", artikelen: ["L", "M_nws", "S_lk", "S_lk", "S_nws"], preview: "S506A.jpg" },
   { naam: "S506A variant 4", artikelen: ["L", "M_lk", "S_nws", "S_nws", "S_nws"], preview: "S506A.jpg" },
   { naam: "S506A variant 5", artikelen: ["L", "M_lk", "S_lk", "S_nws", "S_nws"], preview: "S506A.jpg" },
   { naam: "S506A variant 6", artikelen: ["L", "M_lk", "S_nws", "S_lk", "S_nws"], preview: "S506A.jpg" },
-  { naam: "S506A variant 7", artikelen: ["L", "M_lk", "S_lk", "S_lk", "S_nws"], preview: "S506A.jpg" },
+  { naam: "S506A variant 7", artikelen: ["L", "M_lk", "S_lk", "S_lk", "S_nws"], preview: "S506A.jpg" }, 
   { naam: "S506I", artikelen: ["L", "M_nws", "S_nws", "S_nws", "S_nws"], preview: "S506I.jpg" },
   { naam: "S506I variant 1", artikelen: ["L", "M_nws", "S_lk", "S_nws", "S_nws"], preview: "S506I.jpg" },
   { naam: "S506I variant 2", artikelen: ["L", "M_nws", "S_nws", "S_lk", "S_nws"], preview: "S506I.jpg" },
@@ -613,7 +613,7 @@ function TemplateMatcher() {
       <div className="flex items-center">
         <img src="https://focus.limburger.nl/raw/prod-mh-design-system/7.14.1/dl/logos/logo-main.svg" alt="De Limburger logo" className="h-12 mr-4" />
         <h1 className="text-3xl font-extrabold tracking-tight">Template Matchmaker</h1>
-        <span className="text-sm font-normal align-top ml-2 bg-white/40 px-2 py-0.5 rounded">V1.2, update 27/11/2025</span>
+        <span className="text-sm font-normal align-top ml-2 bg-white/40 px-2 py-0.5 rounded">V1.2, update 28/11/2025</span>
       </div>
 
       <div className="bg-white/40 rounded-xl p-4">
