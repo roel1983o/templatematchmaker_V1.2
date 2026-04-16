@@ -196,7 +196,6 @@ const templates = [
   { naam: "S317L", artikelen: ["L", "M_lk", "M_nws"], preview: "S317L.jpg" },
   { naam: "S317L variant 1", artikelen: ["L", "M_nws", "M_nws"], preview: "S317L.jpg" },
   { naam: "S318L", artikelen: ["M_lk", "M_lk", "M_nws"], preview: "S318L.jpg" },
-  { naam: "S318L", artikelen: ["M_lk", "M_lk", "M_nws"], preview: "S318L.jpg" },
   { naam: "S318L variant 1", artikelen: ["M_lk", "M_nws", "M_nws"], preview: "S318L.jpg" },
   { naam: "S318L variant 2", artikelen: ["M_nws", "M_nws", "M_nws"], preview: "S318L.jpg" },
   { naam: "S319N", artikelen: ["L", "L", "M_nws"], preview: "S319N.jpg" },
