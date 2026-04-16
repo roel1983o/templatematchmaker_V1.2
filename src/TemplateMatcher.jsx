@@ -148,7 +148,7 @@ const templates = [
   { naam: "S208M variant 1", artikelen: ["XL", "M_nws"], preview: "S208M.jpg" },
   { naam: "S209A", artikelen: ["XL", "L"], preview: "S209A.jpg" },
   { naam: "S209I", artikelen: ["XL", "L"], preview: "S209I.jpg" },
-  { naam: "S210A", artikelen: ["XL", "XL"], preview: "E210A.jpg" },
+  { naam: "S210A", artikelen: ["XL", "XL"], preview: "S210A.jpg" },
   { naam: "S301A", artikelen: ["XL", "XS", "XS"], preview: "S301A.jpg" },
   { naam: "S302A", artikelen: ["XXL", "XS", "XS"], preview: "S302A.jpg" },
   { naam: "S303A", artikelen: ["XXL", "S_nws", "XS"], preview: "S303A.jpg" },
